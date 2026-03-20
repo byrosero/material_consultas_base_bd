@@ -1,10 +1,9 @@
-# 📚 Actividad: Biblioteca (SQL - Nivel Intermedio)
+# BIBLIOTECA
 
-Este ejercicio permite practicar consultas SQL reales usando una tabla de libros con datos variados.
 
 ---
 
-## 🧱 1. Crear tabla
+## 1. Crear tabla
 
 ```sql
 CREATE TABLE libros (
@@ -19,7 +18,7 @@ CREATE TABLE libros (
 
 ---
 
-## 📥 2. Insertar datos (70 registros reales + repetidos)
+## 2. Insertar datos
 
 ```sql
 INSERT INTO libros (titulo, autor, precio, anio, disponible) VALUES
